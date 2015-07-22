@@ -8,4 +8,4 @@ IF YOU DO NOT HAVE THE LATEST JAVA JDK, YOU WILL NEED TO DOWNLOAD IT FOR THE PRO
 
 1) download JDK
 2) get files from GITHUB and place all FILES in the same FOLDER/DIRECTORY
-3) you can then run it in the command line of the terminal by calling the run.sh from inside the same terminal as the files with the command " sh run.sh"
+3) you can then run it in the command line of the terminal by calling the run.sh from inside the same directoy as the files with the command "sh run.sh"
